@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()= 'Je wachtwoord moet tussen 5 en 20 tekens lang zijn']"
+}

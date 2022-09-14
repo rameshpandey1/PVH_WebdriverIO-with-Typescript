@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//p[text()= 'Wacht een paar seconden voordat je je opnieuw probeert aan te melden.']"
+}
